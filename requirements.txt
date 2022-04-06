@@ -1,0 +1,6 @@
+pandas-datareader
+importlib_metadata==4
+jupyterlab_tabnine
+xgboost==1.4.0
+tensorflow==2.5.0
+hyperopt

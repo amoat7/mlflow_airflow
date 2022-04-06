@@ -1,0 +1,21 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.8.5
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.23.2
+run_id: d3fef944c6904fd58d77dce88f2c4d68
+signature:
+  inputs: '[{"name": "0", "type": "float"}, {"name": "1", "type": "float"}, {"name":
+    "2", "type": "float"}, {"name": "3", "type": "float"}, {"name": "4", "type": "float"},
+    {"name": "5", "type": "float"}, {"name": "6", "type": "float"}, {"name": "7",
+    "type": "float"}, {"name": "8", "type": "float"}, {"name": "9", "type": "float"},
+    {"name": "10", "type": "float"}, {"name": "11", "type": "float"}, {"name": "12",
+    "type": "float"}, {"name": "13", "type": "float"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+utc_time_created: '2022-04-03 07:39:32.570228'

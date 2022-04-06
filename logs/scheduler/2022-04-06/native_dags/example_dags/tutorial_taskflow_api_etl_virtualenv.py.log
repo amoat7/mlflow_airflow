@@ -1,0 +1,206 @@
+[2022-04-06 04:43:08,535] {processor.py:163} INFO - Started process (PID=145) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:43:08,536] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:43:08,536] {logging_mixin.py:109} INFO - [2022-04-06 04:43:08,536] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:43:08,568] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:43:10,231] {logging_mixin.py:109} INFO - [2022-04-06 04:43:10,231] {manager.py:496} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api_etl_virtualenv
+[2022-04-06 04:43:10,237] {logging_mixin.py:109} INFO - [2022-04-06 04:43:10,237] {manager.py:496} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api_etl_virtualenv
+[2022-04-06 04:43:10,237] {logging_mixin.py:109} INFO - [2022-04-06 04:43:10,237] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:43:10,242] {logging_mixin.py:109} INFO - [2022-04-06 04:43:10,242] {dag.py:2415} INFO - Creating ORM DAG for tutorial_taskflow_api_etl_virtualenv
+[2022-04-06 04:43:10,248] {logging_mixin.py:109} INFO - [2022-04-06 04:43:10,248] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:43:10,257] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 1.724 seconds
+[2022-04-06 04:43:40,306] {processor.py:163} INFO - Started process (PID=370) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:43:40,307] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:43:40,312] {logging_mixin.py:109} INFO - [2022-04-06 04:43:40,312] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:43:40,342] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:43:40,568] {logging_mixin.py:109} INFO - [2022-04-06 04:43:40,568] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:43:40,581] {logging_mixin.py:109} INFO - [2022-04-06 04:43:40,580] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:43:40,590] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.287 seconds
+[2022-04-06 04:44:10,723] {processor.py:163} INFO - Started process (PID=429) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:44:10,724] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:44:10,724] {logging_mixin.py:109} INFO - [2022-04-06 04:44:10,724] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:44:10,748] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:44:10,911] {logging_mixin.py:109} INFO - [2022-04-06 04:44:10,911] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:44:10,921] {logging_mixin.py:109} INFO - [2022-04-06 04:44:10,921] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:44:10,952] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.231 seconds
+[2022-04-06 04:44:41,017] {processor.py:163} INFO - Started process (PID=486) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:44:41,018] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:44:41,019] {logging_mixin.py:109} INFO - [2022-04-06 04:44:41,019] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:44:41,049] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:44:41,234] {logging_mixin.py:109} INFO - [2022-04-06 04:44:41,234] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:44:41,245] {logging_mixin.py:109} INFO - [2022-04-06 04:44:41,245] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:44:41,259] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.246 seconds
+[2022-04-06 04:45:11,374] {processor.py:163} INFO - Started process (PID=552) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:45:11,374] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:45:11,375] {logging_mixin.py:109} INFO - [2022-04-06 04:45:11,375] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:45:11,396] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:45:11,566] {logging_mixin.py:109} INFO - [2022-04-06 04:45:11,566] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:45:11,577] {logging_mixin.py:109} INFO - [2022-04-06 04:45:11,577] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:45:11,585] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.213 seconds
+[2022-04-06 04:45:41,682] {processor.py:163} INFO - Started process (PID=609) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:45:41,682] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:45:41,683] {logging_mixin.py:109} INFO - [2022-04-06 04:45:41,683] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:45:41,711] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:45:41,925] {logging_mixin.py:109} INFO - [2022-04-06 04:45:41,925] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:45:41,939] {logging_mixin.py:109} INFO - [2022-04-06 04:45:41,938] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:45:41,949] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.270 seconds
+[2022-04-06 04:46:12,117] {processor.py:163} INFO - Started process (PID=667) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:46:12,118] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:46:12,118] {logging_mixin.py:109} INFO - [2022-04-06 04:46:12,118] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:46:12,141] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:46:12,300] {logging_mixin.py:109} INFO - [2022-04-06 04:46:12,300] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:46:12,311] {logging_mixin.py:109} INFO - [2022-04-06 04:46:12,311] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:46:12,319] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.204 seconds
+[2022-04-06 04:46:42,434] {processor.py:163} INFO - Started process (PID=732) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:46:42,434] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:46:42,435] {logging_mixin.py:109} INFO - [2022-04-06 04:46:42,435] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:46:42,458] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:46:42,616] {logging_mixin.py:109} INFO - [2022-04-06 04:46:42,616] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:46:42,626] {logging_mixin.py:109} INFO - [2022-04-06 04:46:42,626] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:46:42,634] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.203 seconds
+[2022-04-06 04:47:13,415] {processor.py:163} INFO - Started process (PID=790) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:47:13,416] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:47:13,416] {logging_mixin.py:109} INFO - [2022-04-06 04:47:13,416] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:47:13,437] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:47:13,609] {logging_mixin.py:109} INFO - [2022-04-06 04:47:13,608] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:47:13,625] {logging_mixin.py:109} INFO - [2022-04-06 04:47:13,625] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:47:13,636] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.223 seconds
+[2022-04-06 04:47:44,616] {processor.py:163} INFO - Started process (PID=856) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:47:44,617] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:47:44,618] {logging_mixin.py:109} INFO - [2022-04-06 04:47:44,618] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:47:44,647] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:47:44,839] {logging_mixin.py:109} INFO - [2022-04-06 04:47:44,839] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:47:44,850] {logging_mixin.py:109} INFO - [2022-04-06 04:47:44,850] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:47:44,857] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.244 seconds
+[2022-04-06 04:48:15,275] {processor.py:163} INFO - Started process (PID=916) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:48:15,276] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:48:15,276] {logging_mixin.py:109} INFO - [2022-04-06 04:48:15,276] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:48:15,298] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:48:15,480] {logging_mixin.py:109} INFO - [2022-04-06 04:48:15,480] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:48:15,495] {logging_mixin.py:109} INFO - [2022-04-06 04:48:15,495] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:48:15,503] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.230 seconds
+[2022-04-06 04:48:46,477] {processor.py:163} INFO - Started process (PID=983) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:48:46,478] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:48:46,479] {logging_mixin.py:109} INFO - [2022-04-06 04:48:46,479] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:48:46,506] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:48:46,794] {logging_mixin.py:109} INFO - [2022-04-06 04:48:46,794] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:48:46,811] {logging_mixin.py:109} INFO - [2022-04-06 04:48:46,811] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:48:46,821] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.346 seconds
+[2022-04-06 04:49:17,188] {processor.py:163} INFO - Started process (PID=1040) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:49:17,190] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:49:17,191] {logging_mixin.py:109} INFO - [2022-04-06 04:49:17,191] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:49:17,227] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:49:17,419] {logging_mixin.py:109} INFO - [2022-04-06 04:49:17,419] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:49:17,433] {logging_mixin.py:109} INFO - [2022-04-06 04:49:17,433] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:49:17,443] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.260 seconds
+[2022-04-06 04:49:48,363] {processor.py:163} INFO - Started process (PID=1097) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:49:48,364] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:49:48,364] {logging_mixin.py:109} INFO - [2022-04-06 04:49:48,364] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:49:48,389] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:49:48,600] {logging_mixin.py:109} INFO - [2022-04-06 04:49:48,600] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:49:48,616] {logging_mixin.py:109} INFO - [2022-04-06 04:49:48,616] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:49:48,627] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.266 seconds
+[2022-04-06 04:50:18,892] {processor.py:163} INFO - Started process (PID=1164) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:50:18,892] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:50:18,893] {logging_mixin.py:109} INFO - [2022-04-06 04:50:18,893] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:50:18,916] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:50:19,108] {logging_mixin.py:109} INFO - [2022-04-06 04:50:19,108] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:50:19,120] {logging_mixin.py:109} INFO - [2022-04-06 04:50:19,120] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:50:19,129] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.239 seconds
+[2022-04-06 04:50:49,170] {processor.py:163} INFO - Started process (PID=1222) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:50:49,171] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:50:49,172] {logging_mixin.py:109} INFO - [2022-04-06 04:50:49,172] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:50:49,202] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:50:49,374] {logging_mixin.py:109} INFO - [2022-04-06 04:50:49,374] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:50:49,385] {logging_mixin.py:109} INFO - [2022-04-06 04:50:49,385] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:50:49,393] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.227 seconds
+[2022-04-06 04:52:42,618] {processor.py:163} INFO - Started process (PID=55) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:52:42,619] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:52:42,619] {logging_mixin.py:109} INFO - [2022-04-06 04:52:42,619] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:52:42,650] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:52:42,919] {logging_mixin.py:109} INFO - [2022-04-06 04:52:42,919] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:52:42,934] {logging_mixin.py:109} INFO - [2022-04-06 04:52:42,934] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:52:42,945] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.330 seconds
+[2022-04-06 04:53:13,067] {processor.py:163} INFO - Started process (PID=114) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:53:13,068] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:53:13,069] {logging_mixin.py:109} INFO - [2022-04-06 04:53:13,068] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:53:13,098] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:53:13,283] {logging_mixin.py:109} INFO - [2022-04-06 04:53:13,283] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:53:13,293] {logging_mixin.py:109} INFO - [2022-04-06 04:53:13,293] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:53:13,300] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.237 seconds
+[2022-04-06 04:53:44,384] {processor.py:163} INFO - Started process (PID=180) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:53:44,385] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:53:44,386] {logging_mixin.py:109} INFO - [2022-04-06 04:53:44,386] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:53:44,411] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:53:44,715] {logging_mixin.py:109} INFO - [2022-04-06 04:53:44,714] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:53:44,734] {logging_mixin.py:109} INFO - [2022-04-06 04:53:44,733] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:53:44,745] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.363 seconds
+[2022-04-06 04:54:14,843] {processor.py:163} INFO - Started process (PID=238) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:54:14,844] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:54:14,844] {logging_mixin.py:109} INFO - [2022-04-06 04:54:14,844] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:54:14,865] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:54:15,048] {logging_mixin.py:109} INFO - [2022-04-06 04:54:15,048] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:54:15,060] {logging_mixin.py:109} INFO - [2022-04-06 04:54:15,060] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:54:15,068] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.227 seconds
+[2022-04-06 04:54:46,003] {processor.py:163} INFO - Started process (PID=298) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:54:46,004] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:54:46,004] {logging_mixin.py:109} INFO - [2022-04-06 04:54:46,004] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:54:46,026] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:54:46,188] {logging_mixin.py:109} INFO - [2022-04-06 04:54:46,188] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:54:46,204] {logging_mixin.py:109} INFO - [2022-04-06 04:54:46,204] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:54:46,214] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.213 seconds
+[2022-04-06 04:55:16,603] {processor.py:163} INFO - Started process (PID=353) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:55:16,605] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:55:16,607] {logging_mixin.py:109} INFO - [2022-04-06 04:55:16,607] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:55:16,645] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:55:16,826] {logging_mixin.py:109} INFO - [2022-04-06 04:55:16,826] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:55:16,837] {logging_mixin.py:109} INFO - [2022-04-06 04:55:16,837] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:55:16,845] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.249 seconds
+[2022-04-06 04:55:46,919] {processor.py:163} INFO - Started process (PID=411) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:55:46,920] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:55:46,921] {logging_mixin.py:109} INFO - [2022-04-06 04:55:46,921] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:55:46,949] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:55:47,170] {logging_mixin.py:109} INFO - [2022-04-06 04:55:47,169] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:55:47,186] {logging_mixin.py:109} INFO - [2022-04-06 04:55:47,186] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:55:47,196] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.280 seconds
+[2022-04-06 04:56:17,267] {processor.py:163} INFO - Started process (PID=476) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:56:17,268] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:56:17,269] {logging_mixin.py:109} INFO - [2022-04-06 04:56:17,269] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:56:17,294] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:56:17,477] {logging_mixin.py:109} INFO - [2022-04-06 04:56:17,477] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:56:17,489] {logging_mixin.py:109} INFO - [2022-04-06 04:56:17,489] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:56:17,497] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.231 seconds
+[2022-04-06 04:56:47,624] {processor.py:163} INFO - Started process (PID=533) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:56:47,625] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:56:47,626] {logging_mixin.py:109} INFO - [2022-04-06 04:56:47,626] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:56:47,661] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:56:47,869] {logging_mixin.py:109} INFO - [2022-04-06 04:56:47,868] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:56:47,886] {logging_mixin.py:109} INFO - [2022-04-06 04:56:47,886] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:56:47,897] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.277 seconds
+[2022-04-06 04:57:17,944] {processor.py:163} INFO - Started process (PID=593) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:57:17,945] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 04:57:17,945] {logging_mixin.py:109} INFO - [2022-04-06 04:57:17,945] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:57:17,972] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 04:57:18,136] {logging_mixin.py:109} INFO - [2022-04-06 04:57:18,136] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 04:57:18,146] {logging_mixin.py:109} INFO - [2022-04-06 04:57:18,146] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 04:57:18,154] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.213 seconds
+[2022-04-06 05:02:31,218] {processor.py:163} INFO - Started process (PID=55) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 05:02:31,219] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 05:02:31,219] {logging_mixin.py:109} INFO - [2022-04-06 05:02:31,219] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 05:02:31,246] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 05:02:31,417] {logging_mixin.py:109} INFO - [2022-04-06 05:02:31,416] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 05:02:31,429] {logging_mixin.py:109} INFO - [2022-04-06 05:02:31,429] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 05:02:31,438] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.222 seconds
+[2022-04-06 05:03:02,507] {processor.py:163} INFO - Started process (PID=121) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 05:03:02,508] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 05:03:02,509] {logging_mixin.py:109} INFO - [2022-04-06 05:03:02,508] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 05:03:02,530] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 05:03:02,744] {logging_mixin.py:109} INFO - [2022-04-06 05:03:02,743] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 05:03:02,763] {logging_mixin.py:109} INFO - [2022-04-06 05:03:02,763] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 05:03:02,775] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.270 seconds
+[2022-04-06 05:03:33,701] {processor.py:163} INFO - Started process (PID=179) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 05:03:33,703] {processor.py:642} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2022-04-06 05:03:33,703] {logging_mixin.py:109} INFO - [2022-04-06 05:03:33,703] {dagbag.py:500} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 05:03:33,740] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl_virtualenv']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2022-04-06 05:03:33,927] {logging_mixin.py:109} INFO - [2022-04-06 05:03:33,927] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-04-06 05:03:33,938] {logging_mixin.py:109} INFO - [2022-04-06 05:03:33,938] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl_virtualenv to None
+[2022-04-06 05:03:33,946] {processor.py:171} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.248 seconds

@@ -1,0 +1,20 @@
+artifact_path: model
+flavors:
+  python_function:
+    data: model.xgb
+    env: conda.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.8.5
+  xgboost:
+    data: model.xgb
+    xgb_version: 1.4.0
+run_id: 6414b5f9dec24d24b4d1733b780ee38d
+signature:
+  inputs: '[{"name": "0", "type": "float"}, {"name": "1", "type": "float"}, {"name":
+    "2", "type": "float"}, {"name": "3", "type": "float"}, {"name": "4", "type": "float"},
+    {"name": "5", "type": "float"}, {"name": "6", "type": "float"}, {"name": "7",
+    "type": "float"}, {"name": "8", "type": "float"}, {"name": "9", "type": "float"},
+    {"name": "10", "type": "float"}, {"name": "11", "type": "float"}, {"name": "12",
+    "type": "float"}, {"name": "13", "type": "float"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+utc_time_created: '2022-04-02 06:45:07.138602'
